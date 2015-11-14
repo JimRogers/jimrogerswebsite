@@ -27,6 +27,9 @@ html {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
+a:hover {
+  text-decoration:none;
+}
 .container {
   position: relative;
   width:100%;
