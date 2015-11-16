@@ -371,7 +371,6 @@ Music Section
 }
 
 .music {
-  background-image: url(../images/grain.jpg);
   margin-top:0px !important;
   padding-top:50px;
   padding-bottom:70px;
@@ -380,7 +379,7 @@ Music Section
   margin:15px;
   margin-left:0px;
   font-family: "Roboto condensed";
-  color:#ffffff;
+  color:#919191;
   font-size: 1em !important;
   line-height: 1.6em !important;
   text-align:justify;
@@ -391,7 +390,7 @@ Music Section
 .music h3 {
   font-family:"Notera";
   text-align:left;
-  color:#f0f0f0;
+  color:#919191;
   font-size:4.8em;
   margin-top:70px;
   margin-left:40px;
@@ -401,7 +400,7 @@ Music Section
 .music-image h5 {
   font-family:"Notera";
   text-align:left;
-  color:#f0f0f0;
+  color:#919191;
   font-size:1.8em;
 }
 
