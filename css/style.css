@@ -90,10 +90,7 @@ header nav ul li a:hover {
 .navbar {
   margin-bottom:0px !important;
 }
-.navbar-default .navbar-collapse {
-  float:none;
-  text-align:center;
-}
+
 .navbar-default img {
   padding-top:20px;
   padding-left:15px;
@@ -112,7 +109,7 @@ header h4 {
     text-align: center;
   }
 .navbar-collapse.collapse {
-  display:inline-block !important;
+  display:inline-block;
 }
 .navbar-default {
     background-color: #ffffff;
