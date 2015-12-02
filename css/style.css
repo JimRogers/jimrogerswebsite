@@ -103,14 +103,7 @@ header h4 {
   font-size: 6em !important;
   padding-top: 12px;
 }
-.navbar-nav {
-    float: none !important;
-    margin: 0 !important;
-    text-align: center;
-  }
-.navbar-collapse.collapse {
-  display:inline-block;
-}
+
 .navbar-default {
     background-color: #ffffff;
     border-color: #ffffff;
