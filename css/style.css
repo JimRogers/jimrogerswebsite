@@ -111,8 +111,9 @@ header h4 {
 }
 
 .navbar-default {
-    background-color: #ffffff;
-    border-color: #ffffff;
+    background-color: transparent;
+    border-color: transparent;
+    float:right;
 }
 
 /*---------------------
@@ -198,6 +199,9 @@ header {
 }
 header .title {
   float:left;
+  padding-left:40px;
+  padding-top:0px;
+  margin-top:0px;
 }
 .post-header {
   position:relative;
