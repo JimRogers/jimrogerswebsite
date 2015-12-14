@@ -58,6 +58,10 @@ a {
   color:#62D5BF;
   text-decoration:none;
 }
+.overlay {
+  background-image:url (../images/overlay.png);
+  background-repeat: repeat;
+}
 /*---------------------
 Navigation
 -----------------------*/
@@ -770,7 +774,7 @@ footer .container {
   height: inherit;
 }
 #credits p {
-  color: #777;
+  color: #fff;
   font-weight: 400 !important;
   text-align: right!important;
   margin:0px;
@@ -780,7 +784,7 @@ footer .container {
   line-height: 3em;
 }
 #copyright p {
-  color: #777;
+  color: #fff;
   font-weight: 400 !important;
   text-align: left!important;
   margin:0px;
