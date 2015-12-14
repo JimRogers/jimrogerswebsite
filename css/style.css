@@ -59,8 +59,6 @@ a {
   text-decoration:none;
 }
 .overlay {
-  background-image: url(../images/overlay.png);
-  background-repeat: repeat;
 }
 /*---------------------
 Navigation
@@ -200,7 +198,7 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgba(41, 41, 41, 0.88);
+  background: rgba(41, 41, 41, 0.77);
   height: 125px;
 }
 header .title {
