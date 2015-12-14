@@ -59,7 +59,7 @@ a {
   text-decoration:none;
 }
 .overlay {
-  background-image:url (../images/overlay.png);
+  background-image: url(../images/overlay.png);
   background-repeat: repeat;
 }
 /*---------------------
