@@ -736,7 +736,9 @@ footer .container {
 }
 .copyright{
   height:55px;
-  background:#414141;
+  border-top:1px solid #f5f5f5;
+  margin: 0 auto;
+  width:90%;
 }
 
 #credits {
