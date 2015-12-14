@@ -14,6 +14,7 @@ General Styles
 -----------------------*/
 #wrapper {
   margin:0 auto;
+  width:70%;
 }
 .parallax-window {
     min-height: 400px;
@@ -82,6 +83,9 @@ header nav ul li a {
   padding:0px;
   line-height:2.6em !important;
 }
+.navbar-default .navbar-nav li a {
+  color:#fff;
+}
 a.active{
   background-color:#e7e7e7; 
     }
@@ -107,7 +111,6 @@ header h4 {
   font-family: "Notera";
   color: #fff;
   font-size: 6em !important;
-  padding-top: 12px;
 }
 
 .navbar-default {
