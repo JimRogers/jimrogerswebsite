@@ -42,14 +42,13 @@ body {
   padding:0;
   color: #000;
   min-height:100%;
-  background:#ffffff;
   width:100%;
-}
-.home-background {
   background-image: url(../images/background5.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding-top:45px;
+}
+.home-background {
 
 }
 .container{
@@ -198,7 +197,7 @@ header {
   position: relative;
   text-align: center;
   background: rgba(41, 41, 41, 0.88);
-  height: 96px;
+  height: 125px;
 }
 header .title {
   float:left;
