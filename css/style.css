@@ -48,8 +48,9 @@ body {
 .home-background {
   background-image: url(../images/background5.jpg);
   background-repeat: no-repeat;
-  background-size:100%;
-  
+  background-size:cover;
+  padding-top:45px;
+
 }
 .container{
   margin: 0 auto;
@@ -117,6 +118,7 @@ header h4 {
     background-color: transparent;
     border-color: transparent;
     float:right;
+    padding-top:25px;
 }
 
 /*---------------------
@@ -193,18 +195,16 @@ Header
 -----------------------*/
 header {
   width: 100%;
-  position:relative;
-  margin:0 auto;
-  z-index:5;
-  top:0;
-  margin-top:0px;
-  text-align:center;
+  position: relative;
+  text-align: center;
+  background: rgba(41, 41, 41, 0.88);
+  height: 96px;
 }
 header .title {
   float:left;
   padding-left:40px;
   padding-top:0px;
-  margin-top:0px;
+  margin-top:0px !important;
 }
 .post-header {
   position:relative;
