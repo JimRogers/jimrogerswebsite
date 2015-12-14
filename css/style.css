@@ -44,6 +44,12 @@ body {
   background:#ffffff;
   width:100%;
 }
+.home-background {
+  background-image: url(../images/background5.jpg);
+  background-repeat: no-repeat;
+  background-size:100%;
+  
+}
 .container{
   margin: 0 auto;
 }
