@@ -376,9 +376,9 @@ Music Section
 }
 
 .music {
-  margin-top:0px !important;
-  padding-top:50px;
-  padding-bottom:70px;
+  margin-top:50px;
+  margin-bottom:70px;
+  background: rgba(41, 41, 41, 0.77);
 }
 .music p {
   margin:15px;
