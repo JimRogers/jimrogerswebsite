@@ -43,9 +43,6 @@ body {
   color: #000;
   min-height:100%;
   width:100%;
-  background-image: url(../images/mountains.png);
-  background-repeat: no-repeat;
-  padding-top:45px;
 }
 
 .container{
@@ -74,7 +71,7 @@ nav ul li {
 
 header nav ul li a {
   display:block;
-  color: #fff;
+  color: #777;
   font-family: "Playfair Display";
   font-size: 1.3em;
   text-decoration:none;
@@ -83,7 +80,7 @@ header nav ul li a {
   line-height:2.6em !important;
 }
 .navbar-default .navbar-nav li a {
-  color:#fff;
+  color:#777;
 }
 a.active{
   background-color:#e7e7e7; 
@@ -115,6 +112,8 @@ header h4 {
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
+    border-top:1px solid #777;
+    border-bottom:1px solid #777;
 }
 
 /*---------------------
@@ -186,7 +185,6 @@ Call to action
 }
 
 .front {
-  background: rgba(41, 41, 41, 0.77);
 }
 
 /*---------------------
@@ -196,9 +194,6 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgba(41, 41, 41, 0.77);
-  height: 180px;
-  border-radius:3px;
 }
 header .title {
   padding-left:40px;
