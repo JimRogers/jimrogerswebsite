@@ -118,7 +118,6 @@ header h4 {
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
-    float:right;
     padding-top:25px;
 }
 
@@ -202,7 +201,6 @@ header {
   height: 125px;
 }
 header .title {
-  float:left;
   padding-left:40px;
   padding-top:0px;
   margin-top:0px !important;
