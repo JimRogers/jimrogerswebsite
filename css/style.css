@@ -185,6 +185,9 @@ Call to action
   text-align:center;
 }
 
+.front {
+  background: rgba(41, 41, 41, 0.77);
+}
 
 /*---------------------
 Header
@@ -376,7 +379,6 @@ Music Section
   margin-top:50px;
   margin-bottom:70px;
   padding-bottom:50px;
-  background: rgba(41, 41, 41, 0.77);
 }
 .music p {
   margin:15px;
