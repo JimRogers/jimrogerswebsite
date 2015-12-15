@@ -464,7 +464,7 @@ Blog Section
 .blog p {
   font-family: "Roboto condensed";
   color:#777 !important;
-  font-size: 1.4em !important;
+  font-size: 1.1em !important;
   line-height: 1.1em !important;
   text-align:justify;
   padding-bottom:10px;
@@ -500,13 +500,13 @@ Blog Section
   background:#919191;
   color:#f2f2f2;
   border:2px solid #919191 !important;
-  font-size:1.3em !important;
+  font-size:1.1em !important;
   font-weight:200 !important;
   font-family:"Oswald";
   border-radius:0px !important;
   padding:13px !important;
   letter-spacing:5px;
-  width:190px;
+  width:170px;
   margin-right:20px;
   margin-top:10px;
   border-radius:2px !important;
