@@ -393,11 +393,11 @@ Music Section
   margin-right:40px;
 }
 .music h3 {
-  font-family:"Notera";
+  font-family: "Playfair Display";
   text-align:left;
-  color:#919191;
+  color:#fff;
   font-size:4.8em;
-  margin-top:70px;
+  margin-top:0px;
   margin-left:40px;
   padding-top:55px;
   position:relative;
@@ -410,7 +410,7 @@ Music Section
 }
 
 .music-image {
-  padding-top:10px;
+  padding-top:60px;
   padding-left:40px;
   padding-right:40px;
 }
