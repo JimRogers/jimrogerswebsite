@@ -185,9 +185,6 @@ Call to action
   text-align:center;
 }
 
-.front {
-}
-
 /*---------------------
 Header
 -----------------------*/
@@ -666,6 +663,13 @@ Contact Section
 /*---------------------
 Footer
 ----------------------*/
+
+.twitter-feed {
+  text-align:center;
+}
+.instagram-feed {
+  text-align:center;
+}
 
 .underline {
   border-bottom:1px solid #E2E1E1;
