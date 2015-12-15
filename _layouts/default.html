@@ -8,8 +8,12 @@
       <div class="home-background">
         <div id="wrapper">
           {% include header.html %}
-      
-          {% include home-section.html %}
+          
+          <div class="col-md-8">
+            {% include blog-section.html %}
+            {% include home-section.html %}
+          </div>
+          
               {{ content }}
    
           {% include footer.html %}
