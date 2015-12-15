@@ -35,7 +35,7 @@ a:hover {
   width:100%;
 }
 body {
-  font-family: "aktiv-grotesk-std",'Gotham Light','Roboto',"Helvetica Neue", Helvetica, Arial, Sans-serif;
+  font-family: "Playfair Display",'Oswald','Roboto',"Helvetica Neue", Helvetica, Arial, Sans-serif;
   font-size: 13px;
   line-height: 20px;
   margin:0;
@@ -45,12 +45,9 @@ body {
   width:100%;
   background-image: url(../images/mountains.png);
   background-repeat: no-repeat;
-  background-size:cover;
   padding-top:45px;
 }
-.home-background {
 
-}
 .container{
   margin: 0 auto;
 }
