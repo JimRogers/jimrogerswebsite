@@ -858,7 +858,7 @@ Back to top
 
 @media (max-width: 480px) {
 
-.wrapper {
+#wrapper {
   width:100%;
 }
 .navbar-header {
