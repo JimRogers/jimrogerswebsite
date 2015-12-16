@@ -386,7 +386,7 @@ Music Section
 }
 .music h3 {
   font-family: "Playfair Display";
-  text-align: left;
+  text-align: center;
   color: #777;
   font-size: 2.8em;
   margin-top: 0px;
@@ -394,7 +394,6 @@ Music Section
   position: relative;
 }
 .music-image {
-  padding-top:10px;
   padding-left:40px;
   padding-right:40px;
 }
