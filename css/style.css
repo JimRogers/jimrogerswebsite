@@ -311,13 +311,14 @@ About Section
   font-family: "Playfair Display";
   font-size:3em;
   color:#545454;
-  text-transform:italic;
+  padding-bottom:30px;
 }
 .about h4 {
   color:#545454;
   font-family: "Roboto condensed";
-  font-size: 0.8em !important;
+  font-size: 1em !important;
   font-weight:bold;
+  text-transform:italic;
 }
 #about-text {
   margin-top:0px;
@@ -335,12 +336,6 @@ About Section
   text-align:justify;
   padding-bottom:20px;
   padding-top:50px
-}
-.about h3 {
-  font-family:"Notera";
-  text-align:center;
-  color:#777;
-  font-size:5.8em;
 }
 
 /*---------------------
