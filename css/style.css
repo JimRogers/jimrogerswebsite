@@ -376,7 +376,7 @@ Music Section
   margin:15px;
   margin-left:0px;
   font-family: "Roboto condensed";
-  color:#919191;
+  color:#777;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
   text-align:justify;
@@ -387,61 +387,16 @@ Music Section
 .music h3 {
   font-family: "Playfair Display";
   text-align: left;
-  color: #fff;
+  color: #777;
   font-size: 2.8em;
   margin-top: 0px;
   padding-top: 5px;
-  margin-bottom: 30px;
   position: relative;
 }
-.music-image h5 {
-  font-family:"Notera";
-  text-align:left;
-  color:#919191;
-  font-size:1.8em;
-}
-
 .music-image {
-  padding-top:60px;
+  padding-top:10px;
   padding-left:40px;
   padding-right:40px;
-}
-.music-image .col-md-6 {
-  padding-top:30px;
-}
-.music ul li {
-  display:inline-block;
-  padding:10px;
-  padding-top:30px;
-  padding-bottom:2px;
-  border-right:0px solid #414141;
-}
-.music-image ul {
-  text-align:center;
-}
-.music .fa {
-  color:#f2f2f2;
-  font-size:4.4em;
-  font-weight:400;
-  padding-right:50px;
-}
-.music .fa:hover {
-  color:#e7e7e7;
-  transition: all 0.3s ease !important;
-}
-.music-image ul li h4 {
-  font-family:"Notera";
-  text-align:left;
-  color:#f2f2f2;
-  font-size:2.2em;
-  padding-top:5px;
-}
-.music a {
-  color:#62D5BF;
-}
-.music a:hover {
-  color:#62D5BF;
-  text-decoration:none;
 }
 
 
