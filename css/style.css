@@ -114,7 +114,6 @@ header h4 {
   background-color: transparent;
   border-color: transparent;
   border-top:1px solid #777;
-  float:right;
 }
 
 /*---------------------
@@ -203,10 +202,11 @@ header .title {
   padding-left:40px;
   padding-top:0px;
   margin-top:0px !important;
-  float:right;
+  float:left;
 }
 header h4 {
   margin-top:0px !important;
+  color:#fff;
 }
 .post-header {
   position:relative;
