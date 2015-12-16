@@ -71,7 +71,7 @@ nav ul li {
 
 header nav ul li a {
   display:block;
-  color: #777;
+  color: #fff;
   font-family: "Playfair Display";
   font-size: 1.3em;
   text-decoration:none;
@@ -80,14 +80,14 @@ header nav ul li a {
   line-height:2.6em !important;
 }
 .navbar-default .navbar-nav li a {
-  color:#777;
+  color:#fff;
 }
 a.active{
   background-color:#e7e7e7; 
     }
 
 header nav ul li a:hover {
-  color: #efefef;
+  color: #fff;
   text-decoration: none;
   background:#c7c7c7;
   padding:15px;
@@ -114,6 +114,7 @@ header h4 {
   background-color: transparent;
   border-color: transparent;
   border-top:1px solid #777;
+  float:right;
 }
 
 /*---------------------
@@ -203,6 +204,7 @@ header .title {
   padding-top:0px;
   margin-top:0px !important;
   float:left;
+  background: rgba(34, 34, 34, 0.53);
 }
 header h4 {
   margin-top:0px !important;
