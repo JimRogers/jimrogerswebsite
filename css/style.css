@@ -114,6 +114,7 @@ header h4 {
   background-color: transparent;
   border-color: transparent;
   border-top:1px solid #777;
+  float:right;
 }
 
 /*---------------------
@@ -162,7 +163,7 @@ Call to action
   margin-top:0px;
   padding-top:0px;
   padding-bottom:0px;
-  height:420px;
+  height:900px;
   background-image: url(../images/background-image.JPG);
   background-size:cover;
   background-repeat:no-repeat;
@@ -193,13 +194,16 @@ Header
 -----------------------*/
 header {
   width: 100%;
-  position: relative;
+  position: fixed;
+  margin: 0 auto;
   text-align: center;
+  
 }
 header .title {
   padding-left:40px;
   padding-top:0px;
   margin-top:0px !important;
+  float:right;
 }
 header h4 {
   margin-top:0px !important;
@@ -589,7 +593,7 @@ Contact Section
   color:#777;
   font-size:4.8em;
   padding-bottom:20px;
-  margin-left:40px;
+  margin-left:40px; 
   margin-top:0px;
   position:relative;
 }
