@@ -307,10 +307,21 @@ About Section
   position:relative;
   height:600px;
 }
-
+.about h3 {
+  font-family: "Playfair Display";
+  font-size:3em;
+  color:#545454;
+  text-transform:italic;
+}
+.about h4 {
+  color:#545454;
+  font-family: "Roboto condensed";
+  font-size: 0.8em !important;
+  font-weight:bold;
+}
 #about-text {
   margin-top:0px;
-  padding-top:0px;
+  padding-top:50px;
   padding-bottom:0px;
   padding-left:10px;
   padding-right:10px;
@@ -318,7 +329,7 @@ About Section
 }
 #about-text p {
   font-family: "Roboto condensed";
-  color:#777 !important;
+  color:#545454 !important;
   font-size: 1.1em !important;
   line-height: 1.6em !important;
   text-align:justify;
