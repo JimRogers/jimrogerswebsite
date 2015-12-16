@@ -858,6 +858,9 @@ Back to top
 
 @media (max-width: 480px) {
 
+.wrapper {
+  width:100%;
+}
 .navbar-header {
   float:right;
 }
