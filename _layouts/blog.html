@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html>
-     {% include blog-head.html %}
-  <body>
-    <div id="wrapper"> 
-     {% include blog-header.html %}
-      <div class="container">
-        <div class="post">
-          <header class="post-header">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-          </header>
-          <article class="post-content">
-            {{ content }}
-          </article>
-        </div>
-      </div>
 
-     {% include blog-footer.html %}
-     {% include blog-scripts.html %}
+  {% include subpage-head.html %}
+
+  <body>
+    <div id="wrapper">
+      {% include subpage-header.html %}
+    </div>
+    {% include top-section.html %}
+    <div id="wrapper">
+      {% include blog-section.html %}
+    
+          {{ content }}
+          
+      {% include social-section.html %}
+      {% include subpage-footer.html %}
+      {% include subpage-scripts.html %}
     </div>
   </body>
 
