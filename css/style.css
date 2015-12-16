@@ -197,6 +197,7 @@ header {
   position: fixed;
   margin: 0 auto;
   text-align: center;
+  background: rgba(34, 34, 34, 0.53);
   
 }
 header .title {
@@ -204,7 +205,7 @@ header .title {
   padding-top:0px;
   margin-top:0px !important;
   float:left;
-  background: rgba(34, 34, 34, 0.53);
+  
 }
 header h4 {
   margin-top:0px !important;
