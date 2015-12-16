@@ -73,7 +73,7 @@ header nav ul li a {
   display:block;
   color: #fff;
   font-family: "Playfair Display";
-  font-size: 1.3em;
+  font-size: 1em;
   text-decoration:none;
   font-weight:200;
   padding:0px;
@@ -164,7 +164,7 @@ Call to action
   padding-top:0px;
   padding-bottom:0px;
   height:900px;
-  background-image: url(../images/background-image.JPG);
+  background-image: url(../images/m.JPG);
   background-size:cover;
   background-repeat:no-repeat;
   
