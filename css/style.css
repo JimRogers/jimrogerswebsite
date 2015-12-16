@@ -593,17 +593,11 @@ Contact Section
   color:#777;
 }
 .contact h3 {
-  font-family:"Notera";
-  text-align:left;
-  color:#777;
-  font-size:4.8em;
-  padding-bottom:20px;
-  margin-left:40px; 
-  margin-top:0px;
-  position:relative;
-}
-.contact span h3 {
-  color:#fff;
+  font-family: "Playfair Display";
+  font-size:3em;
+  color:#545454;
+  padding-bottom:30px;
+  text-align:center;
 }
 
 #contactform {
