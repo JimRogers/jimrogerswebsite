@@ -622,73 +622,18 @@ Footer
 .twitter-feed {
   text-align:center;
 }
+.twitter-feed h3 {
+  font-family: "Playfair Display";
+}
 .instagram-feed {
   text-align:center;
+}
+.instagram-feed h3 {
+  font-family: "Playfair Display";
 }
 
 .underline {
   border-bottom:1px solid #E2E1E1;
-}
-.footer-text {
-  padding-bottom:20px;
-  text-align:center;
-}
-.footer-text h3 {
-  color:#f0f0f0;
-  text-align:center;
-  font-family: "aktiv-grotesk-std";
-  font-size:1em;
-  margin-top:20px;
-  font-weight:600;
-}
-.footer-text p {
-  color:#f0f0f0;
-  text-align:center;
-  font-family: "aktiv-grotesk-std";
-  font-size: 13px !important;
-  line-height: 1.6em;
-  margin-top:30px;
-}
-.footer-text ul {
-  list-style:none;
-  margin-left:0px;
-  margin-top:30px;
-  padding-left:0px;
-  text-align:center;
-}
-.footer-text ul li {
-  font-family: "aktiv-grotesk-std";
-  font-size:0.9em;
-  color:#777;
-  text-align:center;
-}
-.footer-text ul li a {
-  color:#777;
-  font-family: "aktiv-grotesk-std";
-  font-size:1.2em;
-  font-weight:300;
-  font-size: 13px;
-  line-height: 1.6em;
-}
-.footer-text a {
-  color:#777;
-  font-weight:bold;
-  font-size: 13px;
-  line-height: 1.6em;
-}
-.footer-text a:hover {
-  color:#444343;
-  text-decoration:none;
-}
-
-.widget-socials {
-  text-align: right;
-  padding:15px;
-}
-
-.widget-socials a {
-  padding:6px;
-  float: right;
 }
 
 footer {
