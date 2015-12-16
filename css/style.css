@@ -318,7 +318,7 @@ About Section
   font-family: "Roboto condensed";
   font-size: 1em !important;
   font-weight:bold;
-  text-transform:italic;
+  font-style:italic;
 }
 #about-text {
   margin-top:0px;
@@ -376,6 +376,7 @@ Music Section
   margin-top:50px;
   margin-bottom:70px;
   padding-bottom:50px;
+  height:650px;
 }
 .music p {
   margin:15px;
@@ -391,13 +392,10 @@ Music Section
 }
 .music h3 {
   font-family: "Playfair Display";
-  text-align: center;
-  color: #777;
-  font-size: 2.8em;
-  margin-top: 0px;
-  padding-top: 5px;
-  padding-bottom:20px;
-  position: relative;
+  font-size:3em;
+  color:#545454;
+  padding-bottom:30px;
+  text-align:center;
 }
 .music-image {
   padding-left:40px;
