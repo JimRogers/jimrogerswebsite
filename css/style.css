@@ -600,12 +600,8 @@ Contact Section
   text-align:center;
 }
 
-#contactform {
-  margin-left:40px;
-  margin-right:80px;
-}
-#contactform input[type="text"] { font-size:15px; padding: 5px 10px; height:45px; width:100%; border: 3px solid #777;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;    -moz-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    -webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1); margin:8px 0 18px; }
-#contactform textarea { font-size:15px; padding: 5px 10px; width:100%; border: 3px solid #777;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;    -moz-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    -webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1); margin:8px 0 18px; }
+#contactform input[type="text"] { font-size:15px; padding: 5px 10px; height:45px; width:70%; border: 3px solid #777;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;    -moz-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    -webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1); margin:8px 0 18px; }
+#contactform textarea { font-size:15px; padding: 5px 10px; width:70%; border: 3px solid #777;    -webkit-font-smoothing: antialiased;    -moz-osx-font-smoothing: grayscale;    -moz-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    -webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1); margin:8px 0 18px; }
 #contactform #submit { -moz-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    -webkit-box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1);    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.1); width:100%; float: left; font-size:15px; background: #37485c; height:45px; color:#fff; font-weight:900; padding:6px; text-transform: uppercase;  width: 100%; border-radius: 4px; border:0; cursor: pointer;  -ms-box-sizing: border-box;     -khtml-box-sizing: border-box;     -webkit-box-sizing: border-box;     -moz-box-sizing: border-box;    box-sizing: border-box;    box-sizing: border-box; }
 #contactform #submit:hover { background: #37485C; }
 
