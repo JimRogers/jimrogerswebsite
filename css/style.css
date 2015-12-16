@@ -161,9 +161,13 @@ Call to action
 .call-to-action {
   width:100%;
   margin-top:0px;
-  padding-top:70px;
-  padding-bottom:20px;
+  padding-top:0px;
+  padding-bottom:0px;
   height:550px;
+  background-image: url(../images/background5.jpg);
+  background-size:cover;
+  background-repeat:no-repeat;
+  
 }
 
 #main-title a {
@@ -323,15 +327,7 @@ About Section
   color:#777;
   font-size:5.8em;
 }
-.about-image-item img {
-  width:100%;
-}
-.about-image-item {
-  text-align:left;
-}
-.about-image-item .btn-music {
-  padding-top:70px;
-}
+
 /*---------------------
 Music Section
 -----------------------*/
