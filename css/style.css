@@ -462,7 +462,9 @@ Blog Section
   margin-top:10px;
   border-radius:2px !important;
   font-style:italic !important;
-  
+}
+.btn-blog a {
+  color:#545454 !important;
 }
 .btn-blog:hover {
   background:#545454;
@@ -471,7 +473,7 @@ Blog Section
   transition: all 0.7s ease !important;
 }
 .btn-blog a:hover {
-  color:#919191 !important;
+  color:#fff !important;
   text-decoration:none;
 }
 #blog-text ul {
