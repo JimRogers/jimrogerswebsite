@@ -411,7 +411,7 @@ Blog Section
   padding-top:0px;
   margin: 0 auto;
   padding-bottom:70px;
-  text-align:center;
+  text-align:left;
   position:relative;
   margin-top:0px;
 }
@@ -451,9 +451,9 @@ Blog Section
   margin-left:40px;
 }
 .btn-blog {
-  background:#919191;
-  color:#f2f2f2;
-  border:2px solid #919191 !important;
+  background:transparent;
+  color:#545454;
+  border:2px solid #545454 !important;
   font-size:1.1em !important;
   font-weight:200 !important;
   font-family:"Oswald";
@@ -464,12 +464,13 @@ Blog Section
   margin-right:20px;
   margin-top:10px;
   border-radius:2px !important;
-  text-transform:italic !important;
+  font-style:italic !important;
+  
 }
 .btn-blog:hover {
-  background:transparent;
-  color:#919191 !important;
-  border:2px solid #919191 !important;
+  background:#545454;
+  color:#fff !important;
+  border:2px solid #545454 !important;
   transition: all 0.7s ease !important;
 }
 .btn-blog a {
