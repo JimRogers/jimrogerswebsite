@@ -425,6 +425,16 @@ Blog Section
   padding-top:50px;
   padding-right:40px;
 }
+#blog-text p {
+  font-family: "Roboto condensed";
+  color:#545454 !important;
+  font-size: 1.1em !important;
+  line-height: 1.1em !important;
+  text-align:justify;
+  padding-bottom:10px;
+  padding-top:50px;
+  padding-right:40px;
+}
 .blog h3 {
   font-family:"Notera";
   text-align:center;
