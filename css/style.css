@@ -423,7 +423,6 @@ Blog Section
   text-align:justify;
   padding-bottom:10px;
   padding-top:50px;
-  padding-right:40px;
 }
 #blog-text p {
   font-family: "Roboto condensed";
@@ -431,9 +430,8 @@ Blog Section
   font-size: 1.1em !important;
   line-height: 1.1em !important;
   text-align:justify;
-  padding-bottom:10px;
-  padding-top:50px;
-  padding-right:40px;
+  padding-bottom:5px;
+  padding-top:5px;
 }
 .blog h3 {
   font-family:"Notera";
@@ -488,6 +486,13 @@ Blog Section
 }
 #blog-text ul {
   list-style:none;
+}
+#blog-text ol li {
+  font-family: "Roboto condensed";
+  color:#545454 !important;
+  font-size: 1.1em !important;
+  line-height: 1.1em !important;
+  text-align:justify;
 }
 #blog-text {
   padding-top:30px;
