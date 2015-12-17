@@ -470,7 +470,7 @@ Blog Section
   background:#545454;
   color:#fff !important;
   border:2px solid #545454 !important;
-  transition: all 0.7s ease !important;
+  transition: all 0.4s ease !important;
 }
 .btn-blog a:hover {
   color:#fff !important;
