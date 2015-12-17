@@ -428,18 +428,16 @@ Blog Section
 .blog h3 {
   font-family:"Notera";
   text-align:center;
-  color:#777;
+  color:#545454;
   font-size:4.8em;
   padding-top:15px;
-  margin-left:40px;
 }
 .post-title {
   font-family:"Notera";
   text-align:center;
-  color:#777;
+  color:#545454;
   font-size:4.8em;
   padding-top:15px;
-  margin-left:40px;
 }
 .blog h5 {
   font-family:"Notera";
@@ -451,7 +449,7 @@ Blog Section
 }
 .btn-blog {
   background:transparent;
-  color:#545454;
+  color:#545454 !important;
   border:2px solid #545454 !important;
   font-size:1.1em !important;
   font-weight:200 !important;
@@ -482,10 +480,6 @@ Blog Section
 #blog-text {
   padding-top:30px;
   padding-bottom:30px;
-}
-.post {
-  padding-bottom:40px;
-  padding-top:240px;
 }
 
 
