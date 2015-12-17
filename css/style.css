@@ -417,13 +417,12 @@ Blog Section
 }
 .blog p {
   font-family: "Roboto condensed";
-  color:#777 !important;
+  color:#545454 !important;
   font-size: 1.1em !important;
   line-height: 1.1em !important;
   text-align:justify;
   padding-bottom:10px;
   padding-top:50px;
-  padding-left:40px;
   padding-right:40px;
 }
 .blog h3 {
@@ -472,9 +471,6 @@ Blog Section
   color:#fff !important;
   border:2px solid #545454 !important;
   transition: all 0.7s ease !important;
-}
-.btn-blog a {
-  color:#fff;
 }
 .btn-blog a:hover {
   color:#919191 !important;
