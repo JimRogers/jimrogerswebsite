@@ -479,6 +479,10 @@ Blog Section
 #blog-text ul {
   list-style:none;
 }
+#blog-text {
+  padding-top:30px;
+  padding-bottom:30px;
+}
 .post {
   padding-bottom:40px;
   padding-top:240px;
