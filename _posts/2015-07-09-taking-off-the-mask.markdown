@@ -5,7 +5,7 @@ date:   2015-07-09 14:51:19
 categories: blog
 ---
 
-  <h3>{{ post.title }}</h3>
+  {{ post.title }}
   
   I have been processing some thoughts about creativity for a long time now. I thought I would finally put pen to paper and see what happens. It is funny how you get to a point when you suddenly realise the amount of influences that can bear down on your mind and decision-making. You start to say and do things, which you realise later, that weren’t actually yourself. You can normally tell as you end up going down a path where you start to feel claustrophobic or stifled. This is the indicator and alarm bell to my recent situation.
 
