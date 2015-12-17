@@ -754,7 +754,7 @@ Back to top
 #main-title h1 {
   margin:0 !important;
   text-align: center!important;
-  font-size:3.8em !important;
+  font-size:8.8em !important;
 }
 #navbar {
   margin-left:0px!important;
@@ -767,6 +767,9 @@ header {
 }
 .container {
   width: 100% !important;
+}
+.call-to-action {
+  height:450px;
 }
 .about{
   padding-left:0px;
