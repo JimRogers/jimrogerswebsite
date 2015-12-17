@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "Taking off the mask"
 date:   2015-07-09 14:51:19
 categories: blog
