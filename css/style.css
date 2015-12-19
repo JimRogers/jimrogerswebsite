@@ -245,28 +245,32 @@ Buttons
 }
 .btn-subscribe {
   background:transparent;
-  color:#fff;
-  border:2px solid #f2f2f2 !important;
-  font-size:1.3em !important;
+  color:#545454 !important;
+  border:2px solid #545454 !important;
+  font-size:1.1em !important;
   font-weight:200 !important;
-  font-family: "Oswald";
+  font-family:"Oswald";
   border-radius:0px !important;
   padding:13px !important;
   letter-spacing:5px;
-  width:190px;
+  width:170px;
   margin-right:20px;
-  margin-top:30px;
+  margin-top:10px;
   border-radius:2px !important;
-  text-transform:italic !important;
+  font-style:italic !important;
 }
-.btn-subscribe a {
-  color:#fff;
+.btn-subscribe  a {
+  color:#545454 !important;
 }
-.btn-subscribe:hover {
-  background:#f2f2f2;
-  color:#414141 !important;
-  border:2px solid #f2f2f2 !important;
-  transition: all 0.7s ease !important;
+.btn-subscribe :hover {
+  background:#545454;
+  color:#fff !important;
+  border:2px solid #545454 !important;
+  transition: all 0.4s ease !important;
+}
+.btn-subscribe  a:hover {
+  color:#fff !important;
+  text-decoration:none;
 }
 
 .btn-enter {
