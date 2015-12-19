@@ -243,25 +243,29 @@ Buttons
   color:#444343;
   margin-top:95px;
 }
-.btn-subscribe{
-  background:#919191;
-  color:#f2f2f2;
-  border:2px solid #919191 !important;
+.btn-subscribe {
+  background:transparent;
+  color:#fff;
+  border:2px solid #f2f2f2 !important;
   font-size:1.3em !important;
   font-weight:200 !important;
-  font-family:"Oswald";
+  font-family: "Oswald";
   border-radius:0px !important;
   padding:13px !important;
   letter-spacing:5px;
   width:190px;
+  margin-right:20px;
   margin-top:30px;
   border-radius:2px !important;
   text-transform:italic !important;
 }
+.btn-subscribe a {
+  color:#fff;
+}
 .btn-subscribe:hover {
-  background:transparent;
-  color:#919191 !important;
-  border:2px solid #919191 !important;
+  background:#f2f2f2;
+  color:#414141 !important;
+  border:2px solid #f2f2f2 !important;
   transition: all 0.7s ease !important;
 }
 
