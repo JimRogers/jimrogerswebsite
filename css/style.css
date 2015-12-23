@@ -503,6 +503,9 @@ Blog Section
 #blog-text ul {
   list-style:none;
 }
+#blog-text ol {
+  padding-left:30px;
+}
 #blog-text ol li {
   font-family: "Roboto condensed";
   color:#545454 !important;
