@@ -55,7 +55,8 @@ a {
 .underline {
   border-bottom:3px solid #777;
   margin: 0 auto;
-  width:30%;
+  width:6%;
+  margin-bottom:40px;
 }
 /*---------------------
 Navigation
