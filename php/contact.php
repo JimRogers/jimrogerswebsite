@@ -8,7 +8,7 @@ $field_email = $_POST['E-Mail'];
 $field_message = $_POST['Message'];
 
 
-$mail_to = 'info@jimrogersmusic.com';
+$mail_to = 'jimrogersmusic@hotmail.co.uk';
 $subject = '#Message# '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -29,7 +29,7 @@ if ($mail_status) { ?>
 }
 else { ?>
  <script language="javascript" type="text/javascript">
-  alert('Message sending failed. Please, send an email to info@jimrogersmusic.com');
+  alert('Message sending failed. Please, send an email to jimrogersmusic@hotmail.co.uk');
   window.location = '/';
  </script>
 <?php
