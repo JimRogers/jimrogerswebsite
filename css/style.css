@@ -144,12 +144,18 @@ Socials
 }
 .socials .fa {
   color:#e7e7e7;
-  font-size:4.4em;
-  font-weight:400;
+  font-size:2.4em;
+  color:#777;
 }
 .socials .fa:hover {
   color:#777;
   transition: all 0.3s ease !important;
+}
+.emails a {
+  font-size:2em;
+  color:#777;
+  color:#777;
+  font-family: "Roboto Condensed";
 }
 
 /*---------------------
