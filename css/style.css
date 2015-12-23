@@ -52,7 +52,12 @@ a {
   color:#62D5BF;
   text-decoration:none;
 }
-.overlay {
+.underline {
+  background-image: url(../images/underline.png);
+  background-repeat:no-repeat;
+  width:100%;
+  margin: 0 auto;
+  
 }
 /*---------------------
 Navigation
@@ -648,9 +653,7 @@ Footer
   font-family: "Playfair Display";
 }
 
-.underline {
-  border-bottom:1px solid #E2E1E1;
-}
+
 
 footer {
   width:100%;
