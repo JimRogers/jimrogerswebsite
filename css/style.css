@@ -53,14 +53,9 @@ a {
   text-decoration:none;
 }
 .underline {
-  background-image: url(../images/underline.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 15%;
-  width: 100%;
+  border-bottom:3px solid #777;
   margin: 0 auto;
-  text-align: center;
-  
+  width:30%;
 }
 /*---------------------
 Navigation
