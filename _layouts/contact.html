@@ -4,14 +4,13 @@
   {% include subpage-head.html %}
 
   <body>
-    <div id="wrapper">
-      {% include subpage-header.html %}
-      {% include contact-section.html %}
-      
-          {{ content }}
-     
-      {% include subpage-footer.html %}
-      {% include subpage-scripts.html %}
+          {% include subpage-header.html %}
+          {% include top-section.html %}
+    <div id="wrapper">     
+          {% include contact-section.html %}
+              {{ content }}
+          {% include subpage-footer.html %}
+          {% include subpage-scripts.html %}
     </div>
   </body>
 
