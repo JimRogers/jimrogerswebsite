@@ -11,4 +11,4 @@ Song 1  - On the move
 
 <br>
 
-  So I thought I would start sharing some of the songs I have been writing over the last 5 years. Here is the first one title <i>On the Move</i>. It was filmed and edited by Christian Steinmetz and shot in Old Portsmouth UK. The song has been knocking around in my thoughts/notes for years. It was writtten from the sense of feeling that there is something more and catching a sense of it. Enjoy.
+  <p>So I thought I would start sharing some of the songs I have been writing over the last 5 years. Here is the first one title <i>On the Move</i>. It was filmed and edited by Christian Steinmetz and shot in Old Portsmouth UK. The song has been knocking around in my thoughts/notes for years. It was writtten from the sense of feeling that there is something more and catching a sense of it. Enjoy.</p>
