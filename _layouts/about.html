@@ -4,18 +4,13 @@
   {% include subpage-head.html %}
 
   <body>
-    <div id="wrapper">
-      {% include subpage-header.html %}
-    </div>
-    {% include top-section.html %}
-    <div id="wrapper">
-      {% include about-section.html %}
-    
-          {{ content }}
-          
-      {% include social-section.html %}
-      {% include subpage-footer.html %}
-      {% include subpage-scripts.html %}
+          {% include subpage-header.html %}
+          {% include top-section.html %}
+    <div id="wrapper">     
+          {% include about-section.html %}
+              {{ content }}
+          {% include subpage-footer.html %}
+          {% include subpage-scripts.html %}
     </div>
   </body>
 
