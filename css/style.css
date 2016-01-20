@@ -339,7 +339,6 @@ About Section
 }
 #about-text {
   margin-top:0px;
-  padding-top:50px;
   padding-bottom:0px;
   padding-left:10px;
   padding-right:10px;
@@ -729,7 +728,7 @@ Back to top
   display: none;
 }
 .back-to-top .fa {
-  color:#777;
+  color:#514654;
   font-size:4em;
 }
 
