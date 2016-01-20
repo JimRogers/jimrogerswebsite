@@ -56,7 +56,7 @@ a {
   border-bottom:3px solid #777;
   margin: 0 auto;
   width:6%;
-  margin-bottom:40px;
+  margin-bottom:25px;
 }
 /*---------------------
 Navigation
@@ -319,11 +319,11 @@ About Section
 -----------------------*/
 .about {
   padding-top:20px;
+  padding-bottom:30px;
   margin: 0 auto;
   padding-bottom:0px;
   text-align:center;
   position:relative;
-  height:600px;
 }
 .about h3 {
   font-family: "Playfair Display";
