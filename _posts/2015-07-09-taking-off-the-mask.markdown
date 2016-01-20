@@ -25,5 +25,4 @@ categories: blog
   
   <div class="fb-share-button" data-href="http://jimrogersmusic.com/blog/" data-layout="icon_link"></div>
   
-  <a href="https://twitter.com/share" class="twitter-share-button"{count} data-url="http://www.jimrogersmusic.com/blog" data-via="JimRogersMusic">Tweet</a>
  
