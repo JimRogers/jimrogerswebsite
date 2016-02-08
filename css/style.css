@@ -35,7 +35,7 @@ a:hover {
   width:100%;
 }
 body {
-  font-family: "Playfair Display",'Oswald','Roboto',"Helvetica Neue", Helvetica, Arial, Sans-serif;
+  font-family: "adriane", "Playfair Display",'Oswald','Roboto';
   font-size: 13px;
   line-height: 20px;
   margin:0;
@@ -344,9 +344,9 @@ About Section
   background:#ffffff;
 }
 #about-text p {
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   color:#545454 !important;
-  font-size: 1.1em !important;
+  font-size: 1.2em !important;
   line-height: 2em !important;
   text-align:justify;
   padding-bottom:20px;
