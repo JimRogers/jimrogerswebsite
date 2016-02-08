@@ -35,7 +35,7 @@ a:hover {
   width:100%;
 }
 body {
-  font-family: "adriane", "Playfair Display",'Oswald','Roboto';
+  font-family: "adriane",'Oswald','Roboto';
   font-size: 13px;
   line-height: 20px;
   margin:0;
@@ -76,7 +76,7 @@ nav ul li {
 header nav ul li a {
   display:block;
   color: #545454;
-  font-family: "Playfair Display";
+  font-family: "adriane";
   font-size: 1em;
   text-decoration:none;
   font-weight:200;
@@ -129,7 +129,7 @@ Socials
   font-size:1.0em;
   padding-top:10px;
   margin-bottom:10px;
-  font-family: "Roboto Condensed";
+  font-family: "adriane";
   line-height: 16px;
   letter-spacing: .200em;
   color: #414141;
@@ -158,7 +158,7 @@ Socials
 .email a {
   font-size:1.4em;
   color:#777;
-  font-family: "Roboto Condensed";
+  font-family: "adriane";
 }
 
 /*---------------------
@@ -248,7 +248,7 @@ Buttons
 }
 
 .form-inline h3 {
-  font-family: "aktiv-grotesk-std";
+  font-family: "adriane";
   text-align:center;
   color:#444343;
   margin-top:95px;
@@ -325,13 +325,13 @@ About Section
   position:relative;
 }
 .about h3 {
-  font-family: "Playfair Display";
-  font-size:3em;
+  font-family: "adriane";
+  font-size:2em;
   color:#545454;
 }
 .about h4 {
   color:#545454;
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   font-size: 1em !important;
   font-weight:bold;
   font-style:italic;
@@ -435,7 +435,7 @@ Blog Section
   margin-top:0px;
 }
 .blog p {
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   color:#545454 !important;
   font-size: 1.1em !important;
   line-height: 2em !important;
@@ -444,7 +444,7 @@ Blog Section
   padding-top:50px;
 }
 #blog-text p {
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   color:#545454 !important;
   font-size: 1.1em !important;
   line-height: 2em !important;
@@ -510,7 +510,7 @@ Blog Section
   padding-left:30px;
 }
 #blog-text ol li {
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   color:#545454 !important;
   font-size: 1.1em !important;
   line-height: 1.1em !important;
@@ -545,7 +545,7 @@ Schedule Section
 .schedule p {
   margin:15px;
   margin-left:0px;
-  font-family: "aktiv-grotesk-std";
+  font-family: "adriane";
   color:#ffffff;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
@@ -564,7 +564,7 @@ Schedule Section
   position:relative;
 }
 .schedule h4 {
-  font-family:"Roboto condensed";
+  font-family: "adriane";
   text-align:left;
   color:#f0f0f0;
   font-size:1.5em;
@@ -603,7 +603,7 @@ Contact Section
 .contact p {
   margin:15px;
   margin-left:0px;
-  font-family: "aktiv-grotesk-std";
+  font-family: "adriane";
   color:#777;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
@@ -625,8 +625,8 @@ Contact Section
   color:#777;
 }
 .contact h3 {
-  font-family: "Playfair Display";
-  font-size:3em;
+  font-family: "adriane";
+  font-size:2em;
   color:#545454;
   text-align:center;
 }
@@ -645,13 +645,13 @@ Footer
   text-align:center;
 }
 .twitter-feed h3 {
-  font-family: "Playfair Display";
+  font-family: "adriane";
 }
 .instagram-feed {
   text-align:center;
 }
 .instagram-feed h3 {
-  font-family: "Playfair Display";
+  font-family: "adriane";
 }
 
 
@@ -698,7 +698,7 @@ footer .container {
   text-align: right!important;
   margin:0px;
   padding:10px;
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   font-size: 0.7em;
   line-height: 3em;
 }
@@ -708,7 +708,7 @@ footer .container {
   text-align: left!important;
   margin:0px;
   padding:10px;
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   font-size: 0.7em;
   line-height: 3em;
 }
