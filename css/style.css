@@ -367,7 +367,7 @@ Music Section
   border:2px solid #919191 !important;
   font-size:1.3em !important;
   font-weight:200 !important;
-  font-family:"Oswald";
+  font-family: "adriane";
   border-radius:0px !important;
   padding:13px !important;
   letter-spacing:5px;
@@ -400,7 +400,7 @@ Music Section
 .music p {
   margin:15px;
   margin-left:0px;
-  font-family: "Roboto condensed";
+  font-family: "adriane";
   color:#777;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
@@ -410,8 +410,8 @@ Music Section
   margin-right:40px;
 }
 .music h3 {
-  font-family: "Playfair Display";
-  font-size:3em;
+  font-family: "adriane";
+  font-size:2em;
   color:#545454;
   text-align:center;
 }
@@ -480,7 +480,7 @@ Blog Section
   border:2px solid #545454 !important;
   font-size:1.1em !important;
   font-weight:200 !important;
-  font-family:"Oswald";
+  font-family: "adriane";
   border-radius:0px !important;
   padding:13px !important;
   letter-spacing:5px;
