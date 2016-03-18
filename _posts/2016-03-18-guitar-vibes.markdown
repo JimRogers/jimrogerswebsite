@@ -6,4 +6,4 @@ categories: blog
 ---
 
 
-{% instagram BDBcG4Gk9-F $}
+{% instagram BDBcG4Gk9-F %}
