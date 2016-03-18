@@ -117,7 +117,6 @@ header h4 {
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
-  float:left;
 }
 
 /*---------------------
@@ -772,6 +771,12 @@ Back to top
   margin:0 !important;
   text-align: center!important;
   font-size:4.2em !important;
+}
+.navbar-default {
+  float:left;
+}
+.call-to-action {
+  width:100%;
 }
 }
 
