@@ -77,11 +77,12 @@ header nav ul li a {
   display:block;
   color: #545454;
   font-family: "adriane";
-  font-size: 1em;
-  text-decoration:none;
-  font-weight:200;
-  padding:0px;
-  line-height:2.6em !important;
+  font-size: 1.2em;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0px;
+  line-height: 2.6em !important;
+  letter-spacing: 4px;
 }
 .navbar-default .navbar-nav li a {
   color:#fff;
