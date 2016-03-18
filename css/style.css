@@ -773,10 +773,11 @@ Back to top
   font-size:4.2em !important;
 }
 .navbar-default {
-  float:left;
+  float:right;
 }
 .call-to-action {
   width:100%;
+  margin-top:0px;
 }
 }
 
