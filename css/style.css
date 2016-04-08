@@ -347,10 +347,20 @@ Music Section
 }
 
 .music {
-  margin-top:50px;
-  margin-bottom:70px;
-  padding-bottom:50px;
-  height:650px;
+  width:100%;
+  margin:0 auto;
+  margin-top:0px;
+  padding-top:0px;
+  padding-bottom:0px;
+  height:1000px;
+  background-image: url(../images/jr.JPG);
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:top;
+}
+.overlay {
+  background:#222;
+  height:100%;
 }
 .music p {
   margin:15px;
