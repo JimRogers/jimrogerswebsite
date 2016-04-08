@@ -316,36 +316,6 @@ About Section
 Music Section
 -----------------------*/
 
-.btn-music {
-  background:#919191;
-  color:#f2f2f2;
-  border:2px solid #919191 !important;
-  font-size:1.3em !important;
-  font-weight:200 !important;
-  font-family: "adriane";
-  border-radius:0px !important;
-  padding:13px !important;
-  letter-spacing:5px;
-  width:190px;
-  margin-right:20px;
-  margin-top:30px;
-  border-radius:2px !important;
-  text-transform:italic !important;
-}
-.btn-music:hover {
-  background:transparent;
-  color:#919191 !important;
-  border:2px solid #919191 !important;
-  transition: all 0.7s ease !important;
-}
-.btn-music a {
-  color:#f2f2f2 !important;
-}
-.btn-music a:hover {
-  color:#919191 !important;
-  text-decoration:none;
-}
-
 .music {
   width:100%;
   margin:0 auto;
@@ -556,18 +526,20 @@ Contact Section
 -----------------------*/
 
 .contact {
-  padding-top:0px;
+  padding-top:150px;
+  padding-bottom:30px;
   margin: 0 auto;
-  padding-bottom:40px;
+  padding-bottom:0px;
   text-align:center;
   position:relative;
-  margin-top:0px;
+  height:900px;
+  background:#363535;
 }
 .contact p {
   margin:15px;
   margin-left:0px;
   font-family: "adriane";
-  color:#777;
+  color: rgb(181, 153, 90) !important;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
   text-align:justify;
