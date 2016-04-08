@@ -61,29 +61,7 @@ a {
 /*---------------------
 Navigation
 -----------------------*/
-nav {
-   display:inline-block;
-}
-nav ul {
-  margin:0 auto;
-  width:100%;
-  display:inline;
-}
-nav ul li {
-  display: block;
-}
 
-header nav ul li a {
-  display:block;
-  color: rgb(181, 153, 90) !important;
-  font-family: "adriane";
-  font-size: 1.2em;
-  text-decoration: none;
-  font-weight: bold;
-  padding: 0px;
-  line-height: 2.6em !important;
-  letter-spacing: 4px;
-}
 .navbar-default .navbar-nav li a {
   color:#fff;
 }
@@ -108,13 +86,6 @@ header nav ul li a:hover {
   opacity:0.9;
   width:12%;
 }
-header h4 {
-  font-family: "Notera";
-  color: #777;
-  font-size: 6em !important;
-  margin-bottom:20px;
-}
-
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
@@ -181,8 +152,6 @@ Call to action
 .second {
   padding-right:0px;
 }
-
-
 #main-title h1 {
   font-family:"Notera";
   text-align:center;
@@ -226,6 +195,33 @@ header {
   font-size:14.8em;
   margin: 0 auto;
   padding-bottom:30px;
+}
+
+.navbar-nav li {
+  float:none;
+}
+nav {
+   display:inline-block;
+}
+nav ul {
+  margin:0 auto;
+  width:100%;
+  display:inline;
+}
+nav ul li {
+  display: block;
+}
+
+header nav ul li a {
+  display:block;
+  color: rgb(181, 153, 90) !important;
+  font-family: "adriane";
+  font-size: 1.2em;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0px;
+  line-height: 2.6em !important;
+  letter-spacing: 4px;
 }
 
 
