@@ -189,7 +189,7 @@ nav ul {
   display:inline;
 }
 nav ul li {
-  display: block;
+  display: inline-block;
 }
 
 header nav ul li a {
