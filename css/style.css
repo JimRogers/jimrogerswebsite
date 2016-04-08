@@ -75,7 +75,7 @@ nav ul li {
 
 header nav ul li a {
   display:block;
-  color: #545454;
+  color: rgb(181, 153, 90) !important;
   font-family: "adriane";
   font-size: 1.2em;
   text-decoration: none;
@@ -176,14 +176,13 @@ Call to action
   background-image: url(../images/jr.JPG);
   background-size:cover;
   background-repeat:no-repeat;
-  background-position:center;
-  
+  background-position:top;
+}
+.second {
+  padding-right:0px;
 }
 
-#main-title a {
-  color:#fff;
-  text-decoration:none;
-}
+
 #main-title h1 {
   font-family:"Notera";
   text-align:center;
@@ -196,16 +195,19 @@ Call to action
   padding-top:65px;
   padding-bottom:30px;
 }
-#main-button {
-  text-align:center;
-}
+
 
 /*---------------------
 Header
 -----------------------*/
 .float-header {
   position:fixed;
+  background:#363535;
 }
+.first {
+  padding-left:0px;
+}
+
 header {
   width: 100%;
   position: absolute;
