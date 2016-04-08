@@ -297,11 +297,10 @@ About Section
   padding-bottom:0px;
   padding-left:120px;
   padding-right:120px;
-  background:#ffffff;
 }
 #about-text p {
   font-family: "adriane";
-  color:#545454 !important;
+  color: rgb(181, 153, 90) !important;
   font-size: 1em !important;
   line-height: 2em !important;
   text-align:justify;
@@ -309,8 +308,8 @@ About Section
   padding-top:50px
 }
 .about img {
-  width:70%;
-  margin-bottom: 30px;
+  width:90%;
+  margin-top: 50px;
 }
 
 /*---------------------
