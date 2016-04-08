@@ -70,7 +70,7 @@ nav ul {
   display:inline;
 }
 nav ul li {
-  display: inline-block;
+  display: block;
 }
 
 header nav ul li a {
@@ -167,13 +167,13 @@ Call to action
 
 
 .call-to-action {
-  width:90%;
+  width:100%;
   margin:0 auto;
-  margin-top:40px;
+  margin-top:0px;
   padding-top:0px;
   padding-bottom:0px;
-  height:400px;
-  background-image: url(../images/m.JPG);
+  height:1000px;
+  background-image: url(../images/jr.JPG);
   background-size:cover;
   background-repeat:no-repeat;
   background-position:center;
@@ -203,6 +203,9 @@ Call to action
 /*---------------------
 Header
 -----------------------*/
+.float-header {
+  position:fixed;
+}
 header {
   width: 100%;
   position: absolute;
