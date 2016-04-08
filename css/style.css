@@ -738,7 +738,7 @@ header {
 .container {
   width: 100% !important;
 }
-#call-to-action {
+.call-to-action {
   height:400px;
 }
 .about{
