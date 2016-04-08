@@ -350,13 +350,13 @@ Music Section
   width:100%;
   margin:0 auto;
   margin-top:0px;
-  padding-top:0px;
+  padding-top:150px;
   padding-bottom:0px;
   height:1000px;
   background-image: url(../images/jr.JPG);
   background-size:cover;
   background-repeat:no-repeat;
-  background-position:top;
+  background-position:center;
 }
 .overlay {
   background:#222;
