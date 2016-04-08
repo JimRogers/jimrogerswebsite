@@ -304,21 +304,21 @@ About Section
 #about-text {
   margin-top:0px;
   padding-bottom:0px;
-  padding-left:10px;
-  padding-right:10px;
+  padding-left:120px;
+  padding-right:120px;
   background:#ffffff;
 }
 #about-text p {
   font-family: "adriane";
   color:#545454 !important;
-  font-size: 1.2em !important;
+  font-size: 1em !important;
   line-height: 2em !important;
   text-align:justify;
   padding-bottom:20px;
   padding-top:50px
 }
 .about img {
-  width:100%;
+  width:70%;
   margin-bottom: 30px;
 }
 
