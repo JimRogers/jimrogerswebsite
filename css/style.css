@@ -158,7 +158,7 @@ Header
 -----------------------*/
 .float-header {
   position:relative;
-  background:#363535;
+  background:#272727;
   width: 100%;
 
 }
@@ -290,7 +290,7 @@ About Section
   text-align:center;
   position:relative;
   height:900px;
-  background:#363535;
+  background:#272727;
 }
 #about-text {
   margin-top:0px;
@@ -532,7 +532,7 @@ Contact Section
   padding-bottom:0px;
   text-align:center;
   position:relative;
-  background:#363535;
+  background:#272727;
 }
 .email a {
   font-family: "adriane";
