@@ -301,18 +301,6 @@ About Section
   text-align:center;
   position:relative;
 }
-.about h3 {
-  font-family: "adriane";
-  font-size:2em;
-  color:#545454;
-}
-.about h4 {
-  color:#545454;
-  font-family: "adriane";
-  font-size: 1em !important;
-  font-weight:bold;
-  font-style:italic;
-}
 #about-text {
   margin-top:0px;
   padding-bottom:0px;
