@@ -157,20 +157,13 @@ Call to action
 Header
 -----------------------*/
 .float-header {
-  position:fixed;
+  position:relative;
   background:#363535;
-  width: 20%;
-  float: left;
-  height: 100%;
-  z-index:9999;
-}
-.first {
-  padding-left:0px;
-}
+  width: 100%;
 
+}
 header {
   width: 100%;
-  position: absolute;
   margin: 0 auto;
   text-align: center;
 }
