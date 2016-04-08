@@ -738,9 +738,13 @@ header {
 .container {
   width: 100% !important;
 }
+#call-to-action {
+  height:400px;
+}
 .about{
   padding-left:0px;
   padding-right:0px;
+  padding-top:50px;
   height:100%;
 }
 #about-text {
@@ -785,6 +789,9 @@ header {
 }
 .socials ul {
   padding-top:0px;
+}
+.email a {
+  padding-top:30px;
 }
 }
 
