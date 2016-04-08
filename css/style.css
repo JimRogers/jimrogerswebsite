@@ -203,6 +203,10 @@ Header
 .float-header {
   position:fixed;
   background:#363535;
+  width: 20%;
+  float: left;
+  height: 100%;
+  z-index:9999;
 }
 .first {
   padding-left:0px;
@@ -214,32 +218,16 @@ header {
   margin: 0 auto;
   text-align: center;
 }
-header .title {
-  padding-left:40px;
-  padding-top:0px;
-  margin-top:0px !important;
-  float:left;
-}
-header h4 {
-  margin-top:0px !important;
+
+#side-title h1 {
+  font-family:"Notera";
+  text-align:center;
   color:#fff;
-}
-.post-header {
-  position:relative;
-}
-header h1 {
-  margin-top:10px;
+  font-size:14.8em;
+  margin: 0 auto;
+  padding-bottom:30px;
 }
 
-.title-underline {
-  border-bottom:1px solid #202020;
-  width:30%;
-  margin: 0 auto;
-}
-header ul li {
-  padding-left:10px;
-  padding-right:10px;
-}
 
 /*---------------------
 Buttons
