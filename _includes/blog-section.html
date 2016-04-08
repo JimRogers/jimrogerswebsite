@@ -1,20 +1,22 @@
-<section class="blog">
-  <div class="container">
+<div class="col-md-10">
+  <section class="blog">
+    <div class="container">
   
-    <div class="col-md-12">
-      <div id="blog-text">
-        <ul>
-          {% for post in site.posts %}
-            <li>
-              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-            </li>
-            <li>
-              <a href="{{ post.url }}">{{ post.excerpt }}</a>
-            </li>
-             <a href="{{ post.url }}"><button type="button" class="btn btn-blog">read more</button></a>
-          {% endfor %}
-        </ul>
-      </div><!--end blog text-->
-    </div><!--end col md 12-->
-  </div><!--end container-->
-</section><!--end blog-->
+      <div class="col-md-12">
+        <div id="blog-text">
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+              </li>
+              <li>
+                <a href="{{ post.url }}">{{ post.excerpt }}</a>
+              </li>
+               <a href="{{ post.url }}"><button type="button" class="btn btn-blog">read more</button></a>
+            {% endfor %}
+          </ul>
+        </div><!--end blog text-->
+      </div><!--end col md 12-->
+    </div><!--end container-->
+  </section><!--end blog-->
+</div>
