@@ -350,16 +350,15 @@ Music Section
   width:100%;
   margin:0 auto;
   margin-top:0px;
-  padding-top:150px;
   padding-bottom:0px;
-  height:1000px;
+  height:900px;
   background-image: url(../images/jr.JPG);
   background-size:cover;
   background-repeat:no-repeat;
-  background-position:center;
+  background-position:bottom;
 }
 .overlay {
-  background:#222;
+  background: RGBA(34, 34, 34, 0.9);
   height:100%;
 }
 .music p {
@@ -380,9 +379,8 @@ Music Section
   color:#545454;
   text-align:center;
 }
-.music-image {
-  padding-left:40px;
-  padding-right:40px;
+.music-feature {
+  padding-top:200px;
 }
 
 
