@@ -680,14 +680,16 @@ Back to top
 }
 
 @media (max-width: 768px) {
-
+#side-title {
+  float:left;
+}
 .nav ul li {
   display:block !important;
 }
 .navbar-header {
   float:right;
 }
-.navbar-nav>li>a{
+.navbar-nav li a {
   padding-top:2px !important;
   padding-bottom:2px !important;
   line-height:1.5em !important;
@@ -736,13 +738,14 @@ header {
 .container {
   width: 100% !important;
 }
-.call-to-action {
-  height:100%;
-}
 .about{
   padding-left:0px;
   padding-right:0px;
   height:100%;
+}
+#about-text {
+  padding-left: 4px;
+  padding-right: 4px;
 }
 .blog {
   padding-left:0px;
