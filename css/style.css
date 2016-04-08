@@ -719,10 +719,10 @@ Back to top
 .navbar-header {
   float:right;
 }
-#main-title h1 {
+#side-title h1 {
   margin:0 !important;
   text-align: center!important;
-  font-size:8.8em !important;
+  font-size:2.8em !important;
 }
 #navbar {
   margin-left:0px!important;
@@ -737,22 +737,19 @@ header {
   width: 100% !important;
 }
 .call-to-action {
-  height:450px;
+  height:100%;
 }
 .about{
   padding-left:0px;
   padding-right:0px;
+  height:100%;
 }
 .blog {
   padding-left:0px;
   padding-right:0px;
+  height:100%;
 }
-.blog h3 {
-  margin-left:0px;
-}
-.blog h5 {
-  margin-left:0px;
-}
+
 .blog p {
   padding-left:0px;
   padding-right:0px;
@@ -764,13 +761,11 @@ header {
 .music {
   padding-left:0px;
   padding-right:0px;
+  height:100%;
 }
-.music-image {
+.music-feature {
   padding-left:0px;
   padding-right:0px;
-}
-.music h3 {
-  margin-left:0px;
 }
 .music p {
   margin:0px;
@@ -778,8 +773,8 @@ header {
 .music-image ul {
   padding-left:0px;
 }
-.contact h3 {
-  margin-left:0px;
+.contact {
+  height:100%;
 }
 .contact p {
   margin-left: 0px;
@@ -787,10 +782,6 @@ header {
 }
 .socials ul {
   padding-top:0px;
-}
-#contactform {
-  margin-left: 0px;
-  margin-right: 0px;
 }
 }
 
