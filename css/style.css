@@ -174,11 +174,7 @@ header {
   color:#fff;
   font-size:14.8em;
   margin: 0 auto;
-  padding-bottom:30px;
-}
-
-.navbar-nav li {
-  float:none;
+  line-height:0.8;
 }
 nav {
    display:inline-block;
@@ -287,12 +283,14 @@ Buttons
 About Section
 -----------------------*/
 .about {
-  padding-top:20px;
+  padding-top:150px;
   padding-bottom:30px;
   margin: 0 auto;
   padding-bottom:0px;
   text-align:center;
   position:relative;
+  height:900px;
+  background:#363535;
 }
 #about-text {
   margin-top:0px;
