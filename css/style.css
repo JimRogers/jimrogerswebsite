@@ -532,20 +532,14 @@ Contact Section
   padding-bottom:0px;
   text-align:center;
   position:relative;
-  height:900px;
   background:#363535;
 }
-.contact p {
-  margin:15px;
-  margin-left:0px;
+.email a {
   font-family: "adriane";
   color: rgb(181, 153, 90) !important;
   font-size: 1.2em !important;
   line-height: 1.6em !important;
   text-align:justify;
-  margin-bottom:20px;
-  margin-left:40px;
-  margin-right:40px;
 }
 .contact .socials p {
   color:#777;
