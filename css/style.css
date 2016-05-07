@@ -366,7 +366,7 @@ Blog Section
 }
 .blog p {
   font-family: "adriane";
-  color:#dbdbdb !important;
+  color:rgb(181, 153, 90) !important;
   font-size: 1.1em !important;
   line-height: 2em !important;
   text-align:justify;
@@ -375,7 +375,7 @@ Blog Section
 }
 #blog-text p {
   font-family: "adriane";
-  color:#dbdbdb !important;
+  color:rgb(181, 153, 90) !important;
   font-size: 1.1em !important;
   line-height: 2em !important;
   text-align:justify;
@@ -385,7 +385,7 @@ Blog Section
 .blog h3 {
   font-family:"Notera";
   text-align:center;
-  color:#dbdbdb;
+  color:rgb(181, 153, 90) !important;
   font-size:4.8em;
   padding-top:15px;
 }
