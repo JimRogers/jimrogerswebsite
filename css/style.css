@@ -375,7 +375,7 @@ Blog Section
 }
 #blog-text p {
   font-family: "adriane";
-  color:#545454 !important;
+  color:#dbdbdb !important;
   font-size: 1.1em !important;
   line-height: 2em !important;
   text-align:justify;
@@ -406,8 +406,8 @@ Blog Section
 }
 .btn-blog {
   background:transparent;
-  color:#545454 !important;
-  border:2px solid #545454 !important;
+  color:#dbdbdb !important;
+  border:2px solid #dbdbdb !important;
   font-size:1.1em !important;
   font-weight:200 !important;
   font-family: "adriane";
