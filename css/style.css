@@ -164,7 +164,7 @@ header {
   text-align: center;
 }
 
-#side-title h1 {
+.navbar-brand {
   font-family:"Notera";
   text-align:center;
   color:#fff;
