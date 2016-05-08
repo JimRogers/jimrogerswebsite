@@ -329,7 +329,7 @@ Music Section
   background-position:bottom;
 }
 .overlay {
-  background: RGBA(34, 34, 34, 0.9);
+  background: rgba(34, 34, 34, 0.9);
   height:100%;
 }
 .music p {
@@ -743,9 +743,6 @@ header {
 }
 .container {
   width: 100% !important;
-}
-.call-to-action {
-  height:400px;
 }
 .about{
   padding-left:0px;
