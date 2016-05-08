@@ -154,7 +154,6 @@ Header
 -----------------------*/
 .float-header {
   position:relative;
-  background:#272727;
   width: 100%;
 }
 header {
@@ -167,11 +166,9 @@ header {
   font-family:"Notera";
   text-align:left;
   color:#fff !important;
-  font-size:4.8em;
+  font-size:6.8em;
   margin: 0 auto;
-  line-height:0.8;
-  padding-bottom:0px;
-  padding-left:10px;
+  padding-left:60px;
 }
 nav {
    display:inline-block;
