@@ -291,7 +291,6 @@ About Section
   text-align:center;
   position:relative;
   height:900px;
-  background:#272727;
 }
 #about-text {
   margin-top:0px;
@@ -323,13 +322,11 @@ Music Section
   margin-top:0px;
   padding-bottom:0px;
   height:900px;
-  background-image: url(../images/jr.JPG);
   background-size:cover;
   background-repeat:no-repeat;
   background-position:bottom;
 }
 .overlay {
-  background: rgba(34, 34, 34, 0.9);
   height:100%;
 }
 .music p {
@@ -533,7 +530,6 @@ Contact Section
   padding-bottom:0px;
   text-align:center;
   position:relative;
-  background:#272727;
 }
 .email a {
   font-family: "adriane";
