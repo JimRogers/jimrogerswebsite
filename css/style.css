@@ -736,7 +736,8 @@ body {
   float:none;
 }
 .navbar-brand {
-  padding-left:3px;
+  padding-left:20px;
+  font-size:4em;
 }
 #side-title h1 {
   margin:0 !important;
