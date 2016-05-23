@@ -683,6 +683,14 @@ Back to top
 }
 
 @media (max-width: 768px) {
+  
+.navbar-toggle {
+  border:none !important;
+}
+.navbar-toggle .icon-bar {
+  width: 25px;
+  height: 3px;
+  }
 #side-title {
   float:left;
 }
@@ -718,11 +726,17 @@ Back to top
 #wrapper {
   width:100%;
 }
+body {
+  margin:0px;
+}
 .blog h3 {
   font-size: 2.8em;
 }
 .navbar-header {
-  float:right;
+  float:none;
+}
+.navbar-brand {
+  padding-left:3px;
 }
 #side-title h1 {
   margin:0 !important;
