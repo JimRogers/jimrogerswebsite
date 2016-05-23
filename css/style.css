@@ -42,7 +42,7 @@ body {
   padding:0;
   color: #000;
   min-height:100%;
-  width:100%;
+  margin:30px;
   background:#ffffff;
 }
 
@@ -88,7 +88,7 @@ header nav ul li a:hover {
   width:12%;
 }
 .navbar-default {
-  background-color: rgba(224, 224, 224, 0.37);
+  background-color: transparent;
   border-color: transparent;
   padding-bottom:5px;
 }
@@ -161,14 +161,14 @@ header {
   width: 100%;
   margin: 0 auto;
   text-align: center;
-  position:fixed;
+  position:relative;
   z-index:999;
 }
 
 .navbar-brand {
   font-family:"Notera";
   text-align:left;
-  color:#fff !important;
+  color: rgb(181, 153, 90) !important;
   font-size:6.8em;
   margin: 0 auto;
   padding-left:60px;
